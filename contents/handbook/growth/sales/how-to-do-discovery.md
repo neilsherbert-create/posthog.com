@@ -1,4 +1,4 @@
----
+home---
 title: How to do discovery
 sidebar: Handbook
 showTitle: true
@@ -57,6 +57,7 @@ Discovery includes preparation. Before speaking with any new customer interested
 - Learn more about who you're speaking with via LinkedIn/X
 - Visit the company's website, learn about their product, who they are marketing/selling to, language they are using. Familiarize yourself with what may be important to them
 - Use ChatGPT, Perplexity, Claude, etc. to help research the company, their industry, macroeconomic factors and potential use cases for PostHog
+- If the company offers a web-based app, look at what other tools they're using. Buiktwith is a great plugin for this. You can also open web dev tools to see what else they might be using. This helps us uderstand their maturity.
 
 ### Asking questions
 
