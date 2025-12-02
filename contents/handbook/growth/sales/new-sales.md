@@ -24,6 +24,9 @@ Selling software, especially to larger companies, can be a complex process with 
 * Timeline - When do they want to have a contract signed/solution in place?
 * Pricing - We should know the rough size of the opportunity, and that that is in line with expectations and budget of the customer.
 * Champion - Are you working with a champion who is going to sell internally?
+* Has this person purchased sofwtare before?
+ *   Yes - ask what the process looked like, challenges they faced, so we can help them get ahead of any requests.
+ *   No - find out if they know someone internally who did, and get them to find out what (if anything) is needed in regards to the point above.
   * Are they the buyer (see below) or do they know who the buyer is?
 * Decision - How are they evaluating us?  
   * Is it competitive?  Who?  
